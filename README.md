@@ -2,7 +2,7 @@
 
 This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The voice-assisted news website ### `Talk News`, powered by Alan App, delivers an immersive and convenient news-reading experience. Utilizing cutting-edge voice recognition technology, users can navigate through the latest news articles effortlessly using voice commands. The website, built with React and enhanced with the sleek and responsive Material UI design framework, offers a visually appealing and user-friendly interface.
+The voice-assisted news website `Talk News`, powered by Alan App, delivers an immersive and convenient news-reading experience. Utilizing cutting-edge voice recognition technology, users can navigate through the latest news articles effortlessly using voice commands. The website, built with React and enhanced with the sleek and responsive Material UI design framework, offers a visually appealing and user-friendly interface.
 
 With the integration of the News API, our website ensures that users have access to a diverse range of up-to-date news from reliable sources worldwide. The Alan App's voice capabilities enable users to listen to news articles on the go, making it an ideal companion for busy individuals who prefer an auditory news consumption experience.
 
